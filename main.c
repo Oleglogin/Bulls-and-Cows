@@ -67,8 +67,8 @@ int main(){
             }
             printf("\n");
             printf("%d attempt \n", p);
-            bulls = 0;
             cow = 0;
+            bulls = 0;
             entArr(u,size);
             print_array(u,size);
             printf("\n");
